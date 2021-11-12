@@ -4,7 +4,7 @@ A Console app that digitally scans images using opencvSharp and Numpy.NET
 
 # How to Get Started locally 
 - Clone this repo
-- set Build to x64
+- Open in Visual Studio and set Build to x64
 - Run Application 
 
 
